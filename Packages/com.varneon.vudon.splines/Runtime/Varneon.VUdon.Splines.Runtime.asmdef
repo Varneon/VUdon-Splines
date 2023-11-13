@@ -1,9 +1,10 @@
 {
-    "name": "Varneon.VUdon.RepositoryTemplate.Editor",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
+    "name": "Varneon.VUdon.Splines.Runtime",
+    "rootNamespace": "Varneon.VUdon.Splines",
+    "references": [
+        "UdonSharp.Runtime"
     ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
