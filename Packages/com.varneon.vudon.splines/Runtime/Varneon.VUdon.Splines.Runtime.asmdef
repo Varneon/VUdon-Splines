@@ -2,7 +2,11 @@
     "name": "Varneon.VUdon.Splines.Runtime",
     "rootNamespace": "Varneon.VUdon.Splines",
     "references": [
-        "UdonSharp.Runtime"
+        "UdonSharp.Runtime",
+        "Unity.Splines",
+        "Unity.Mathematics",
+        "Varneon.VUdon.Udonity.Runtime",
+        "Varneon.VUdon.Editors.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

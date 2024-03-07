@@ -5,7 +5,8 @@
         "Varneon.VUdon.Splines.Runtime",
         "UdonSharp.Runtime",
         "UdonSharp.Editor",
-        "Unity.Splines"
+        "Unity.Splines",
+        "Varneon.VUdon.Editors.Editor"
     ],
     "includePlatforms": [
         "Editor"
