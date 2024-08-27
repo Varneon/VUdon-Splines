@@ -1,27 +1,13 @@
+> [!WARNING]
+> This repository is not a complete product ready to be used. It is only made public to serve as a source for learning during development.
+
 <div>
 
 # [VUdon](https://github.com/Varneon/VUdon) - Splines [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/VUdon-Splines?style=flat&label=Stars)](https://github.com/Varneon/VUdon-Splines/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/VUdon-Splines/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/VUdon-Splines/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/VUdon-Splines?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/VUdon-Splines/releases/latest)
 
 </div>
 
-Splines for UdonSharp.
-
-# Installation
-
-<details><summary>
-
-### Import with [VRChat Creator Companion](https://vcc.docs.vrchat.com/vpm/packages#user-packages):</summary>
-
-> Coming Soon™
-
-</details><details><summary>
-
-### Import from [Unitypackage](https://docs.unity3d.com/2019.4/Documentation/Manual/AssetPackagesImport.html):</summary>
-
-> 1. Download latest `com.varneon.vudon.splines.unitypackage` from [here](https://github.com/Varneon/VUdon-Splines/releases/latest)
-> 2. Import the downloaded .unitypackage into your Unity project
-
-</details>
+Experimental WIP splines library for UdonSharp.
 
 <div align="center">
 
