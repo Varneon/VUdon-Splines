@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Varneon.VUdon.Splines
 {
-    public class CatmullRomUtility : MonoBehaviour
+    public static class CatmullRomUtility
     {
         private const float HALF = 1f / 2f;
 
